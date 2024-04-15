@@ -1,0 +1,453 @@
+[
+    {
+        "question": "What is the global goal for water and sanitation as outlined in the provided slides?",
+        "options": ["UN Sustainability Goal 5", "UN Sustainability Goal 6", "UN Sustainability Goal 7", "UN Sustainability Goal 8"],
+        "answer": "2"
+    },
+    {
+        "question": "What percentage of the world's population lives in extreme poverty?",
+        "options": ["Below 10%", "Around 15%", "About 20%", "More than 25%"],
+        "answer": "1"
+    },
+    {
+        "question": "What does the '30 by 30' target in Singapore refer to?",
+        "options": ["30% reduction in carbon emissions by 2030", "30% local food production by 2030", "30% increase in water recycling by 2030", "30% growth in green spaces by 2030"],
+        "answer": "2"
+    },
+    {
+        "question": "Which energy source is part of Singapore’s four national taps water strategy?",
+        "options": ["Biomass", "NEWater", "Solar thermal", "Wind"],
+        "answer": "2"
+    },
+    {
+        "question": "By what year does NTU aim to reduce energy, water use, and waste by 50%?",
+        "options": ["By 2025", "By 2026", "By 2030", "By 2035"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a major source of greenhouse gas that causes climate change, according to the slides?",
+        "options": ["Urban transportation", "Industrial processes", "Agriculture", "Residential heating and cooling"],
+        "answer": "3"
+    },
+    {
+        "question": "Which region faces 'hot spots' for climate change impacts such as sea-level rise and saltwater intrusion?",
+        "options": ["Scandinavia", "Central America", "Bangladesh and Vietnam", "The Arctic"],
+        "answer": "3"
+    },
+    {
+        "question": "What aspect of food security does 'utilisation' refer to?",
+        "options": ["Production efficiency", "Nutritional well-being", "Economic affordability", "Physical availability"],
+        "answer": "2"
+    },
+    {
+        "question": "What is one challenge mentioned for energy-efficiency improvement?",
+        "options": ["Higher initial costs", "Increased carbon emissions", "Lower demand for renewables", "Decreased technological innovation"],
+        "answer": "1"
+    },
+    {
+        "question": "What represents a key challenge for Sub-Saharan Africa in ending extreme poverty?",
+        "options": ["Urban productivity", "Low population density", "Lack of natural resources", "National infrastructure"],
+        "answer": "4"
+    },
+    {
+        "question": "What is the primary challenge in managing water resources globally?",
+        "options": ["Over-reliance on desalination", "Pollution of freshwater sources", "Water stress and scarcity", "Excessive energy costs for water treatment"],
+        "answer": "3"
+    },
+    {
+        "question": "What factor contributes to extreme weather conditions according to the slides on global warming?",
+        "options": ["Decreased CO2 emissions", "Increased biodiversity", "Increased frequency of hot extremes", "Stabilization of Arctic sea ice"],
+        "answer": "3"
+    },
+    {
+        "question": "What is a measure of income inequality within a country?",
+        "options": ["GDP per capita", "Gini coefficient", "Human Development Index", "Purchasing Power Parity"],
+        "answer": "2"
+    },
+    {
+        "question": "According to the slides, what is one significant effect of food waste?",
+        "options": ["Increased production costs", "Decreased global temperatures", "Loss of biodiversity", "Underutilization of farmland"],
+        "answer": "1"
+    },
+    {
+        "question": "What percentage of food does Singapore aim to produce locally by 2030 to enhance food security?",
+        "options": ["20%", "30%", "40%", "50%"],
+        "answer": "2"
+    },
+    {
+        "question": "Which gas contributes more than any other driver to climate change between 1750 and 2011?",
+        "options": ["Methane (CH4)", "Carbon Dioxide (CO2)", "Nitrous Oxide (N2O)", "Ozone (O3)"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the main goal of SDG 13?",
+        "options": ["Promote sustainable agriculture", "Combat climate change", "Ensure access to water and sanitation", "Achieve gender equality"],
+        "answer": "2"
+    },
+    {
+        "question": "What percentage of Singapore's food is imported?",
+        "options": ["50%", "70%", "90%", "100%"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the main challenge faced by South Asia in eradicating extreme poverty?",
+        "options": ["Rapid urbanization", "High population density", "Lack of technological advancement", "Inadequate healthcare"],
+        "answer": "2"
+    },
+    {
+        "question": "Which renewable energy technology involves generating electricity using photovoltaic panels?",
+        "options": ["Solar thermal", "Biomass", "Wind", "Solar photovoltaics (PV)"],
+        "answer": "4"
+    },
+    {
+        "question": "What is the primary factor contributing to the profile of the global poor?",
+        "options": ["Urban residency", "High levels of education", "Rural and undereducated populations", "Gender equality"],
+        "answer": "3"
+    },
+    {
+        "question": "How can the agri-food sector meet rising demand while reducing environmental footprint?",
+        "options": ["By increasing the use of GMOs", "Through sustainable practices", "By expanding agricultural lands", "Increasing the use of inorganic fertilizers"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the significance of the '30 by 30' initiative in Singapore?",
+        "options": ["Reducing waste by 30%", "Increasing green spaces by 30%", "Producing 30% of its food by 2030", "Reducing carbon emissions by 30%"],
+        "answer": "3"
+    },
+    {
+        "question": "According to the course, what is a direct effect of global warming?",
+        "options": ["Decrease in sea levels", "Reduction in extreme weather events", "Increase in marine heatwaves", "Expansion of Arctic sea ice"],
+        "answer": "3"
+    },
+    {
+        "question": "What strategy is vital for enhancing water resource management globally?",
+        "options": ["Sole reliance on freshwater sources", "Increased use of bottled water", "Integrated water resources management", "Limiting water access to conserve resources"],
+        "answer": "3"
+    },
+    {
+        "question": "Why is energy poverty a critical issue according to the slides?",
+        "options": ["It leads to increased use of fossil fuels", "Lack of access to sustainable modern energy services", "Overproduction of renewable energy resources", "It encourages nuclear energy use"],
+        "answer": "2"
+    },
+    {
+        "question": "What role does ODA play in developing countries?",
+        "options": ["Primarily supports military expenditures", "Focused on luxury goods importation", "Targets economic development and welfare", "Aids in the exportation of natural resources"],
+        "answer": "3"
+    },
+    {
+        "question": "What effect does climate change have on agriculture?",
+        "options": ["Leads to an increase in global food production", "Poses a direct threat to food production and livelihoods", "Reduces the greenhouse gas emissions from agriculture", "Enhances the nutritional value of food produced"],
+        "answer": "2"
+    },
+    {
+        "question": "How is food security defined in the provided slides?",
+        "options": ["Solely based on the quantity of food available", "Based on both the quality and quantity of food available and accessible", "Determined by the global market prices of staple foods", "Defined by the level of technological advancement in agriculture"],
+        "answer": "2"
+    },
+    {
+        "question": "What is one of the pillars of food security as outlined in the slides?",
+        "options": ["Agricultural exports", "Water scarcity management", "Utilisation of food for nutritional well-being", "Industrial food processing techniques"],
+        "answer": "3"
+    },
+    {
+        "question": "Which sector is directly and indirectly responsible for about a quarter of global greenhouse gas emissions?",
+        "options": ["Industrial sector", "Transportation sector", "Agri-food sector", "Residential sector"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the SDG 2 aim to achieve?",
+        "options": ["Ensure sustainable water management", "End hunger and promote sustainable agriculture", "Achieve gender equality", "Ensure access to affordable, reliable, sustainable energy"],
+        "answer": "2"
+    },
+    {
+        "question": "Which challenge does Sub-Saharan Africa face in its attempt to end extreme poverty?",
+        "options": ["Lack of industrialization", "Low farm productivity", "High technological advancements", "Urban overcrowding"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the significance of reducing food waste according to the slides?",
+        "options": ["Increases food prices", "Helps increase food availability without boosting production", "Leads to higher greenhouse gas emissions", "Reduces the quality of food available"],
+        "answer": "2"
+    },
+    {
+        "question": "How does climate change directly threaten food production?",
+        "options": ["By increasing global food production", "Through enhanced agricultural technology", "By threatening livelihoods, especially in poor countries", "By reducing the need for agricultural land"],
+        "answer": "3"
+    },
+    {
+        "question": "What is 'Energy Poverty'?",
+        "options": ["An abundance of energy resources", "Lack of access to sustainable modern energy services", "Overproduction of energy", "High energy consumption in developed countries"],
+        "answer": "2"
+    },
+    {
+        "question": "According to the slides, what is one impact of agricultural land use on the environment?",
+        "options": ["Increased urbanization", "Decreased greenhouse gas emissions", "Soil erosion and degradation", "Lowered energy consumption"],
+        "answer": "3"
+    },
+    {
+        "question": "What are the components of the 'Four Taps' strategy for Singapore's water management?",
+        "options": ["Local catchments, imported water, NEWater, desalinated water", "Rainwater, greywater recycling, bottled water, rivers", "Lakes, rivers, reservoirs, rainwater harvesting", "Groundwater, desalination, water importation, reservoirs"],
+        "answer": "1"
+    },
+    {
+        "question": "Why is Singapore aiming to produce 30% of its food by 2030?",
+        "options": ["To reduce water usage", "To become entirely self-sufficient", "To enhance food security", "To increase export revenues"],
+        "answer": "3"
+    },
+    {
+        "question": "What factor contributes to the profile of the global poor?",
+        "options": ["High levels of education", "Urban living", "Predominantly rural and undereducated", "High technological access"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the Gini coefficient measure?",
+        "options": ["Economic growth", "Income inequality within a country", "Population growth", "Literacy rate"],
+        "answer": "2"
+    },
+    {
+        "question": "Which renewable energy source uses concentrated solar energy to generate heat and then electricity?",
+        "options": ["Solar photovoltaics", "Concentrated solar thermal", "Solar thermal", "Biomass energy"],
+        "answer": "2"
+    },
+    {
+        "question": "What does SDG 7 aim for?",
+        "options": ["End poverty in all its forms", "Achieve gender equality", "Ensure access to affordable, reliable, sustainable, and modern energy for all", "Promote sustained, inclusive and sustainable economic growth"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the primary goal of SDG 1?",
+        "options": ["Ensure healthy lives and promote well-being", "End poverty in all its forms everywhere", "Ensure inclusive and equitable quality education", "Achieve gender equality and empower all women and girls"],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following is a direct consequence of climate change on agriculture as mentioned in the slides?",
+        "options": ["Increased crop yield", "Reduction in global hunger", "Threat to food production and livelihoods", "Decrease in greenhouse gas emissions"],
+        "answer": "3"
+    },
+    {
+        "question": "What initiative is crucial for reducing global carbon emissions?",
+        "options": ["International trade agreements", "Global warming awareness campaigns", "International collaboration on climate action", "Nationwide fossil fuel subsidies"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the primary goal of the Paris Agreement made in 2015?",
+        "options": ["Limit global warming to well below 2, preferably to 1.5 degrees Celsius", "Increase global forest cover by 25%", "Reduce global plastic production by half", "Enhance global air quality standards"],
+        "answer": "1"
+    },
+    {
+        "question": "What critical threshold does the concept of tipping points in climate change refer to?",
+        "options": ["Point of maximum greenhouse gas emissions", "Limit of renewable energy production", "Threshold beyond which environmental changes become irreversible", "Maximum allowable global temperature rise"],
+        "answer": "3"
+    },
+    {
+        "question": "What reflects a system's resilience to environmental changes?",
+        "options": ["The ability to amplify feedback loops", "The capacity to undergo rapid urbanization", "The strength of its negative feedback mechanisms", "The rate of its biodiversity loss"],
+        "answer": "3"
+    },
+    {
+        "question": "Which is an example of a positive feedback loop affecting climate?",
+        "options": ["Increased cloud cover leading to cooler global temperatures", "Forest growth absorbing more CO2 and reducing global warming", "Melting ice reducing albedo and increasing solar absorption", "Increased plant growth due to higher CO2 levels leading to more CO2 absorption"],
+        "answer": "3"
+    },
+    {
+        "question": "What challenge does rapid urbanization pose for sustainable development?",
+        "options": ["Decreased demand for public transportation", "Reduced carbon emissions due to technology", "Increased pressure on housing and public services", "Slower economic growth"],
+        "answer": "3"
+    },
+    {
+        "question": "Which region is facing a shift from a rainforest carbon sink to a savannah carbon source?",
+        "options": ["The Congo Basin", "The Amazon Rainforest", "Southeast Asian rainforests", "Australian bushlands"],
+        "answer": "2"
+    },
+    {
+        "question": "How does the fertility rate influence sustainable development?",
+        "options": ["Higher rates lead to greater technological innovation", "Lower rates directly reduce carbon emissions", "Higher rates can strain resources and hinder sustainability goals", "Lower rates increase dependency ratios, impacting economic growth"],
+        "answer": "3"
+    },
+    {
+        "question": "What socioeconomic impact does climate change have on food systems?",
+        "options": ["It ensures a steady supply of seafood", "It diversifies crop production", "It alters precipitation patterns, affecting agriculture", "It reduces the global demand for meat"],
+        "answer": "3"
+    },
+    {
+        "question": "Which factor is not a determinant of fertility rates?",
+        "options": ["Child mortality", "Urbanization rates", "Age of marriage", "Access to education"],
+        "answer": "2"
+    },
+    {
+        "question": "What does the transition of areas into palm plantations in Malaysia exemplify?",
+        "options": ["Effective land use management", "Economic diversification", "Environmental challenges of rapid economic growth", "Sustainable agricultural practices"],
+        "answer": "3"
+    },
+    {
+        "question": "What global trend is projected for populations in Europe and Latin America by 2100?",
+        "options": ["Steady growth", "Rapid decline", "Stabilization", "Declining populations"],
+        "answer": "4"
+    },
+    {
+        "question": "What effect does widespread poverty have on sustainability efforts?",
+        "options": ["It facilitates quicker adoption of renewable energy", "It hinders the implementation of sustainable practices", "It promotes greater global cooperation on environmental issues", "It has no significant impact on environmental sustainability"],
+        "answer": "2"
+    },
+    {
+        "question": "What contributes to the degradation of coral reefs?",
+        "options": ["Decreased salinity of ocean water", "Increased global efforts for marine conservation", "Ocean acidification and warming waters", "Higher rates of photosynthesis within marine ecosystems"],
+        "answer": "3"
+    },
+    {
+        "question": "What impact does forced migration have on urban areas?",
+        "options": ["Decreased diversity", "Reduced population density", "Increased strain on infrastructure and resources", "Improved environmental sustainability"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the main source of livelihood for approximately 65% of Yemen's population?",
+        "options": ["Technology and innovation", "Agriculture and rural activities", "Oil and gas industry", "Tourism and hospitality"],
+        "answer": "2"
+    },
+    {
+        "question": "What exacerbates the challenge of sustainable development in Yemen?",
+        "options": ["High levels of technological advancement", "Abundant natural water resources", "Political crisis and civil war", "Excessive foreign investments"],
+        "answer": "3"
+    },
+    {
+        "question": "Which country is facing severe issues due to rapid economic growth without environmental concern?",
+        "options": ["Singapore", "Malaysia", "Canada", "Sweden"],
+        "answer": "2"
+    },
+    {
+        "question": "What significant environmental issue is caused by palm oil plantation expansion?",
+        "options": ["Improved soil fertility", "Increased carbon sequestration", "Biodiversity loss and ecosystem damage", "Enhanced global cooling"],
+        "answer": "3"
+    },
+    {
+        "question": "By 2100, which country is projected to have a significant increase in population?",
+        "options": ["Germany", "Nigeria", "Japan", "Canada"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the role of international collaboration in addressing climate change?",
+        "options": ["To decrease global trade", "To enhance national security measures", "To limit global carbon emissions", "To promote local tourism"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the transition from a 'rainforest carbon sink' to a 'savannah carbon source' describe?",
+        "options": ["The Sahara Desert", "The Arctic Tundra", "The Amazon Rainforest", "The Great Plains of the USA"],
+        "answer": "3"
+    },
+    {
+        "question": "What challenge does coral reef degradation not directly cause?",
+        "options": ["Increased coastal erosion", "Decreased biodiversity", "Improved marine life health", "Loss of traditional sources of culture"],
+        "answer": "3"
+    },
+    {
+        "question": "Which is not a direct cause of coral reef death?",
+        "options": ["Ocean cooling", "Ocean acidification", "Coral bleaching due to warming waters", "Unsustainable fisheries"],
+        "answer": "1"
+    },
+    {
+        "question": "What does the phenomenon of 'white pollution' primarily refer to?",
+        "options": ["Air pollution in winter", "Noise pollution in urban areas", "Plastic pollution in the environment", "Light pollution from urban sprawl"],
+        "answer": "3"
+    },
+    {
+        "question": "What is not a driving force behind over-consumption?",
+        "options": ["Psychological factors", "Cultural values promoting sustainability", "Economic factors", "Social factors"],
+        "answer": "2"
+    },
+    {
+        "question": "Which stage of modern consumerism was characterized by the idea that a consumption-based economy is necessary for a modern democratic society?",
+        "options": ["First stage: 1500s–1800s", "Second stage: 1800s–1880s", "Third stage: 1880s–1930s", "Fourth stage: 1930s–1970s"],
+        "answer": "4"
+    },
+    {
+        "question": "What primarily challenges the goal of sustainable consumption and production patterns?",
+        "options": ["Exponential decrease in global population", "Widespread adoption of digital technologies", "Increased emphasis on renewable resources", "The consumption explosion accompanied by environmental degradation"],
+        "answer": "4"
+    },
+    {
+        "question": "Which of the following is not a benefit of responsible consumption and production?",
+        "options": ["Increased air, water, and land pollution", "Better management of hazardous materials", "Optimal use of water and energy", "Enhanced social welfare and well-being"],
+        "answer": "1"
+    },
+    {
+        "question": "What does not contribute to the effectiveness of cap and trade systems in reducing GHG emissions?",
+        "options": ["Setting a strict cap on emissions", "Providing economic incentives for pollution reduction", "Allowing unlimited emissions for certain industries", "Facilitating trade of emission permits"],
+        "answer": "3"
+    },
+    {
+        "question": "What strategy does the Singapore Zero Waste Masterplan primarily focus on?",
+        "options": ["Increasing industrial waste", "Promoting the use of plastic bags", "Encouraging waste-to-energy practices", "Enhancing landfill sizes"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the term 'e-waste explosion' refer to in the context of environmental sustainability?",
+        "options": ["Increased use of electronic devices in education", "Sudden growth in the manufacturing of electronics", "Significant rise in improperly discarded electronic waste", "Expansion of electronic waste recycling facilities"],
+        "answer": "3"
+    },
+    {
+        "question": "What is not an economic benefit of responsible consumption and production?",
+        "options": ["Increased risk by using hazardous substances", "Reduced waste management costs", "Lowered unit cost of energy and raw materials", "Replacement of toxic substances with environmentally friendly products"],
+        "answer": "1"
+    },
+    {
+        "question": "Which is not a characteristic of modern consumerism's third stage?",
+        "options": ["Decreased production of consumer goods", "An increase in the circulation of goods", "Stimulation of the economy through consumerism", "Improvement in the nation's living standards"],
+        "answer": "1"
+    },
+    {
+        "question": "In the context of climate change, what does 'cap and trade' aim to achieve?",
+        "options": ["A reduction in global trade barriers", "An increase in greenhouse gas emissions", "A limit on the total level of greenhouse gas emissions", "The elimination of all forms of pollution"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the primary concern with the 'consumption explosion'?",
+        "options": ["It leads to a decrease in consumer goods prices", "It signifies an increase in global production efficiency", "It is accompanied by significant environmental degradation", "It encourages the development of sustainable technologies"],
+        "answer": "3"
+    },
+    {
+        "question": "Why is coral reef degradation a significant issue for coastal protection?",
+        "options": ["Coral reefs do not influence coastal wave patterns", "Healthy coral reefs do not support marine biodiversity", "Coral reefs act as a buffer against wave action and erosion", "The degradation of coral reefs enhances beach aesthetics"],
+        "answer": "3"
+    },
+    {
+        "question": "What challenge does 'positive feedback loop of global warming' not present?",
+        "options": ["Slowing down of global warming", "Melting ice leading to reduced reflection of solar radiation", "Increased absorption of solar radiation by exposed surfaces", "Self-reinforcing cycle of warming"],
+        "answer": "1"
+    },
+    {
+        "question": "Which is not an expected outcome of transitioning to sustainable consumption and production?",
+        "options": ["Increased air, water, and land pollution", "Reduction in the use of natural resources", "Safe management of hazardous materials", "Optimal use of water and energy resources"],
+        "answer": "1"
+    },
+    {
+        "question": "What does not contribute to coral reef degradation?",
+        "options": ["Decreased ocean temperatures", "Coral bleaching due to warming waters", "Overpopulation and unsustainable fisheries", "Ocean acidification"],
+        "answer": "1"
+    },
+    {
+        "question": "What factor does not drive the imitation to over-consumption cycle?",
+        "options": ["Behavioral changes towards sustainability", "Psychological factors", "Economic factors", "Cultural factors"],
+        "answer": "1"
+    },
+    {
+        "question": "Which is not a socio-economic impact of climate change?",
+        "options": ["Increased potential for tourism in colder regions", "Diminished ability to feed families due to impacted agriculture", "Improved air quality in urban centers", "Increased coastal exposure to hurricanes"],
+        "answer": "3"
+    },
+    {
+        "question": "What is not a determinant of a country's fertility rate?",
+        "options": ["Average annual temperature", "Access to family planning services", "Child mortality rates", "Women's participation in the labor force"],
+        "answer": "1"
+    },
+    {
+        "question": "Which country's rapid development poses severe environmental issues due to natural resource-based growth?",
+        "options": ["Germany", "Canada", "Malaysia", "Norway"],
+        "answer": "3"
+    },
+    {
+        "question": "Why is international collaboration essential in addressing climate change?",
+        "options": ["It solely benefits developed countries", "It allows for the unilateral imposition of trade tariffs", "It enables sharing of resources and technologies to reduce global emissions", "It encourages competition rather than cooperation"],
+        "answer": "3"
+    }
+
+]

@@ -1,0 +1,217 @@
+[
+    {
+        "question": "What is the primary purpose of the Translation Look-aside Buffer (TLB) in a virtual memory system?",
+        "options": ["Decrease the physical memory size", "Increase the CPU speed", "Speed up the address translation process", "Expand the virtual memory space"],
+        "answer": "3"
+    },
+    {
+        "question": "Which data structure is used in NachOS to implement virtual memory management?",
+        "options": ["Stack", "Queue", "Inverted Page Table (IPT)", "Binary Tree"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the role of a semaphore in concurrent programming?",
+        "options": ["Memory allocation", "Process scheduling", "Access serialization to shared resources", "Disk management"],
+        "answer": "3"
+    },
+    {
+        "question": "Which page replacement algorithm was used in Experiment 4 for managing physical memory?",
+        "options": ["First-In-First-Out (FIFO)", "Least Recently Used (LRU)", "Most Recently Used (MRU)", "Round Robin"],
+        "answer": "2"
+    },
+    {
+        "question": "In NachOS, what happens when a TLB miss occurs?",
+        "options": ["The system crashes", "The IPT is consulted", "The CPU speed increases", "The operating system reboots"],
+        "answer": "2"
+    },
+    {
+        "question": "What does the NachOS command './nachos' primarily execute?",
+        "options": ["User applications", "System diagnostics", "Network protocols", "Security audits"],
+        "answer": "1"
+    },
+    {
+        "question": "How does the LRU algorithm determine which page to replace?",
+        "options": ["By selecting the page with the highest PID", "By selecting the newest page", "By selecting the page that was least recently used", "By selecting a random page"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the 'Fork' operation do in NachOS thread management?",
+        "options": ["Deletes a thread", "Creates a new thread", "Pauses thread execution", "Synchronizes two threads"],
+        "answer": "2"
+    },
+    {
+        "question": "Which synchronization primitive requires a lock to operate?",
+        "options": ["Semaphore", "Monitor", "Mutex", "Condition variable"],
+        "answer": "4"
+    },
+    {
+        "question": "What is a critical section in the context of concurrent programming?",
+        "options": ["A section of code that must run in isolation", "The most important part of the program", "A section of code that is optional", "The beginning section of any program"],
+        "answer": "1"
+    },
+    {
+        "question": "Which NachOS command compiles the system's source code?",
+        "options": ["make run", "make compile", "make", "make build"],
+        "answer": "3"
+    },
+    {
+        "question": "What type of semaphore is used to simulate mutex behavior?",
+        "options": ["Counting semaphore", "Binary semaphore", "Digital semaphore", "Analog semaphore"],
+        "answer": "2"
+    },
+    {
+        "question": "Which function in NachOS is called to translate a virtual address to a physical address?",
+        "options": ["Translate()", "Convert()", "Map()", "Lookup()"],
+        "answer": "1"
+    },
+    {
+        "question": "What happens during a context switch in NachOS?",
+        "options": ["The network connection is reset", "The current thread state is saved and another thread is loaded", "The user logs out", "The system performs a disk cleanup"],
+        "answer": "2"
+    },
+    {
+        "question": "What method is used by a thread to relinquish control of the CPU voluntarily?",
+        "options": ["Sleep()", "Exit()", "Yield()", "Stop()"],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is NOT a function of the IPT in NachOS?",
+        "options": ["Mapping virtual pages to physical frames", "Storing the status flags of processes", "Expanding virtual memory", "Tracking page access information"],
+        "answer": "3"
+    },
+    {
+        "question": "What type of data structure is a TLB?",
+        "options": ["Queue", "Hash Table", "Array", "Linked List"],
+        "answer": "3"
+    },
+    {
+        "question": "Which TLB replacement policy is typically used for its simplicity?",
+        "options": ["Least Frequently Used (LFU)", "Least Recently Used (LRU)", "Most Recently Used (MRU)", "First In, First Out (FIFO)"],
+        "answer": "4"
+    },
+    {
+        "question": "In NachOS, which operation is used to wait for a specific thread to finish?",
+        "options": ["Wait()", "Pause()", "Join()", "Attach()"],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following best describes the 'Condition variable' in NachOS?",
+        "options": ["A type of loop", "A synchronization tool used with locks", "A variable that changes based on user input", "A network configuration setting"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the function of a page table in virtual memory systems?",
+        "options": ["To store temporary data", "To map virtual addresses to physical addresses", "To enhance CPU performance", "To manage disk storage"],
+        "answer": "2"
+    },
+    {
+        "question": "How does a Least Recently Used (LRU) page replacement algorithm determine which page to replace?",
+        "options": ["By replacing the page that has been in memory the longest", "By replacing the page that was most recently used", "By replacing the page that has been used least recently", "By randomly selecting a page"],
+        "answer": "3"
+    },
+    {
+        "question": "In the context of threading, what does the 'Join' operation do?",
+        "options": ["Pauses the execution of the calling thread until the thread it joins with completes", "Forces a thread to terminate", "Starts a new thread", "Joins the memory spaces of two threads"],
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following scenarios best describes a race condition?",
+        "options": ["Two threads perform operations in sequence without any conflict", "Multiple threads try to perform operations on shared data without synchronization", "A single thread accesses multiple data segments", "Data is corrupted due to a hardware malfunction"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the primary purpose of using semaphores in a multi-threaded environment?",
+        "options": ["To enable error detection", "To control access to shared resources", "To increase processing speed", "To allocate memory"],
+        "answer": "2"
+    },
+    {
+        "question": "What is fragmentation in the context of memory management?",
+        "options": ["The process of cleaning memory", "The division of memory into equal segments", "The division of memory into segments that become difficult to manage", "The linking of fragmented memory segments"],
+        "answer": "3"
+    },
+    {
+        "question": "True or False: Context switches occur only when a process terminates.",
+        "options": ["True", "False"],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following best defines the principle of locality in memory management?",
+        "options": ["Data once accessed by the CPU will not be accessed again", "Memory is managed in one large block", "Recently accessed memory locations are likely to be accessed again soon", "Memory management does not require any specific algorithm"],
+        "answer": "3"
+    },
+    {
+        "question": "In a paging system, what is a page fault?",
+        "options": ["An error in the program code", "A situation where a required page is not found in physical memory", "A fault in the physical memory hardware", "A page being overwritten by another process"],
+        "answer": "2"
+    },
+    {
+        "question": "What does the term 'context switch' imply in operating systems?",
+        "options": ["Switching the power supply to the CPU", "Changing the user interface", "The process of storing and restoring the state of a process", "Updating software"],
+        "answer": "3"
+    },
+    {
+        "question": "Which type of memory allocation allows programs to be allocated across non-contiguous blocks?",
+        "options": ["Stack allocation", "Static allocation", "Heap allocation", "Paging"],
+        "answer": "4"
+    },
+    {
+        "question": "True or False: Semaphore operations are examples of atomic operations in operating systems.",
+        "options": ["True", "False"],
+        "answer": "1"
+    },
+    {
+        "question": "Which mechanism in modern operating systems dynamically translates virtual addresses to physical addresses at runtime?",
+        "options": ["Stack pointer", "Translation Look-aside Buffer (TLB)", "Program counter", "Heap manager"],
+        "answer": "2"
+    },
+    {
+        "question": "What role does the scheduler play in operating systems?",
+        "options": ["It manages user permissions", "It handles network operations", "It determines which process runs at any given time", "It performs garbage collection"],
+        "answer": "3"
+    },
+    {
+        "question": "What does the term 'mutual exclusion' mean in the context of synchronization?",
+        "options": ["Processes can access the same resources without any restrictions", "Only one process or thread can access a resource at a time", "All processes must complete before another can start", "Resources are divided equally among processes"],
+        "answer": "2"
+    },
+    {
+        "question": "What does the Translation Look-aside Buffer (TLB) primarily optimize in virtual memory systems?",
+        "options": ["Disk I/O operations", "CPU clock speed", "Address translation speed", "Network throughput"],
+        "answer": "3"
+    },
+    {
+        "question": "When does a TLB miss occur in virtual memory management?",
+        "options": ["When the requested data is already in the TLB", "When the requested data is in the cache but not in the TLB", "When the requested data is not in the TLB", "When the system is out of physical memory"],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following best describes an Inverted Page Table (IPT)?",
+        "options": ["A page table that maps virtual addresses to physical addresses", "A table that is only used when the regular page table is full", "A page table that maps physical addresses to virtual addresses", "A page table used exclusively in multi-threaded environments"],
+        "answer": "3"
+    },
+    {
+        "question": "In the context of process synchronization, which operation would NOT be handled using a semaphore?",
+        "options": ["Ensuring only one thread accesses a critical section at a time", "Determining the sequence of thread execution", "Allowing multiple threads to access a read-only resource", "Automatically saving the context of threads"],
+        "answer": "4"
+    },
+    {
+        "question": "Which of the following is a FALSE statement about the Fork operation in thread management?",
+        "options": ["Fork allows a thread to create a new thread.", "The new thread created by Fork has its own execution stack.", "The new thread shares the same program counter as the original thread.", "Fork is used to begin execution of a new thread."],
+        "answer": "3"
+    },
+    {
+        "question": "What is the primary benefit of using dynamic partitioning in memory allocation?",
+        "options": ["It reduces external fragmentation.", "It allows more processes in memory at once.", "It increases the speed of memory access.", "It simplifies the memory management algorithms."],
+        "answer": "1"
+    },
+    {
+        "question": "True or False: Logical addresses are the same as physical addresses in a memory management system.",
+        "options": ["True", "False"],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following is NOT a typical state in the life cycle of a thread?",
+        "options": ["New", "Ready", "Running", "Terminated", "Executable"],
+        "answer": "5"
+    }
+]

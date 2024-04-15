@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Considering the feedback mechanisms discussed, which scenario would most likely contribute to a positive feedback loop in climate change?",
+        "options": ["Increasing albedo by expanding polar ice caps", "Planting more trees in urban areas", "Increasing surface darkening due to ice melt", "Promoting the use of solar panels globally"],
+        "answer": "3"
+    },
+    {
+        "question": "If a country implements a strict cap and trade system, what might be an unintended consequence for industries not ready to innovate?",
+        "options": ["Rapid technological advancements", "Decreased competitiveness on a global scale", "Increased investment in green technologies", "None, as all industries benefit equally"],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following would not be considered a direct action to combat the effects of the consumption explosion?",
+        "options": ["Implementing stricter waste management laws", "Increasing consumer awareness about sustainable products", "Subsidizing fossil fuel industries", "Promoting recycling and reuse of materials"],
+        "answer": "3"
+    },
+    {
+        "question": "What would be an effective policy to reduce the negative environmental impact of e-waste?",
+        "options": ["Banning the use of electronic devices", "Creating incentives for manufacturers to design recyclable electronics", "Encouraging consumers to purchase more new devices", "None of the above"],
+        "answer": "2"
+    },
+    {
+        "question": "What could be a global economic consequence of failing to address coral reef degradation?",
+        "options": ["Decreased tourism revenue in coastal regions", "Increase in global fish stocks", "Reduction in marine pollution", "Enhanced global shipping routes"],
+        "answer": "1"
+    },
+    {
+        "question": "In the context of sustainable development, why is the shift from a 'rainforest carbon sink' to a 'savannah carbon source' particularly concerning?",
+        "options": ["It indicates an improvement in biodiversity", "It signifies a reduction in carbon sequestration capacity", "It leads to cooler regional climates", "It enhances water retention in the soil"],
+        "answer": "2"
+    },
+    {
+        "question": "Which outcome is least likely if global carbon emissions are not significantly reduced?",
+        "options": ["Stabilization of global climate patterns", "Increased frequency of extreme weather events", "Rising sea levels and flooding of coastal areas", "Enhanced agricultural productivity globally"],
+        "answer": "4"
+    },
+    {
+        "question": "What is a potential socio-economic impact of implementing a carbon tax in a developing country without adequate support for low-income populations?",
+        "options": ["Increased economic growth", "Decreased inequality", "Increased burden on low-income families", "Rapid technological innovation"],
+        "answer": "3"
+    },
+    {
+        "question": "How does increasing urban green spaces help mitigate urban heat island effects?",
+        "options": ["By reflecting more sunlight", "By increasing surface wind speed", "By reducing surface and air temperatures through shade and evapotranspiration", "By absorbing pollution through chemical processes"],
+        "answer": "3"
+    },
+    {
+        "question": "What is not a true statement about the 'cap and trade' system?",
+        "options": ["It allows for unrestricted pollution as long as it is under the cap", "It incentivizes companies to reduce emissions below their cap to sell excess permits", "It guarantees that all industries will reduce their emissions equally", "It aims to reduce overall greenhouse gas emissions efficiently"],
+        "answer": "3"
+    },
+    {
+        "question": "Which factor is not directly linked to increasing the resilience of coastal communities against climate change?",
+        "options": ["Building more sea walls and other hard infrastructure", "Implementing community-based coral reef restoration projects", "Increasing the import of cheap agricultural products", "Developing early warning systems for extreme weather events"],
+        "answer": "3"
+    },
+    {
+        "question": "How could international collaboration effectively address the issue of plastic pollution in the oceans?",
+        "options": ["By banning all international shipping activities", "Through global agreements to reduce single-use plastic production", "By isolating countries that do not comply with pollution standards", "None, as plastic pollution cannot be addressed through collaboration"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a likely consequence of not integrating sustainability into corporate strategies?",
+        "options": ["Increased market share", "Long-term financial stability due to reduced operational costs", "Potential for environmental scandals and associated reputational damage", "Greater flexibility in international operations"],
+        "answer": "3"
+    },
+    {
+        "question": "Which scenario would not be an example of a negative feedback mechanism in the climate system?",
+        "options": ["Increased plant growth due to higher CO2 levels leading to more CO2 absorption", "Warming temperatures leading to increased cloud cover that reflects sunlight", "Melting ice reducing the Earth’s albedo and increasing solar absorption", "Ocean absorption of CO2 leading to acidification and decreased CO2 absorption"],
+        "answer": "3"
+    },
+    {
+        "question": "What does not align with the goals of sustainable consumption and production?",
+        "options": ["Promoting the use of disposable plastics", "Incentivizing recycling and upcycling of materials", "Reducing energy consumption through efficient technologies", "Supporting local and sustainable food production systems"],
+        "answer": "1"
+    },
+    {
+        "question": "Which action would most effectively reduce the environmental impact of overconsumption in developed countries?",
+        "options": ["Increasing the import of goods", "Promoting consumer awareness about the environmental impacts of products", "Reducing taxes on large corporations", "Expanding industrial areas"],
+        "answer": "2"
+    },
+    {
+        "question": "What could be a direct impact of failing to manage e-waste properly on community health?",
+        "options": ["Improved air quality", "Increased risk of soil and water contamination", "Decreased electricity use", "Enhanced technological innovation"],
+        "answer": "2"
+    },
+    {
+        "question": "In what way does responsible consumption contribute to social benefits?",
+        "options": ["By increasing the consumption of luxury goods", "Through enhanced awareness about environmental issues", "By promoting competition among businesses", "Through the increased use of natural resources"],
+        "answer": "2"
+    },
+    {
+        "question": "Which strategy would not improve the sustainability of a city's water management?",
+        "options": ["Increasing the number of dams", "Promoting water conservation among residents", "Implementing low-flow fixtures in homes", "Enhancing natural water retention areas"],
+        "answer": "1"
+    },
+    {
+        "question": "How does enhancing global cooperation help in managing plastic pollution?",
+        "options": ["By decreasing the focus on recycling", "Through standardized global regulations on plastic production", "By ignoring the role of developing nations", "None of the above"],
+        "answer": "2"
+    },
+    {
+        "question": "What is an unlikely benefit of implementing high emission taxes on corporations?",
+        "options": ["Reduced greenhouse gas emissions", "Increased use of renewable energy", "Decreased innovation in clean technologies", "Financial incentives to reduce emissions"],
+        "answer": "3"
+    },
+    {
+        "question": "Which is not a consequence of the environmental feedback effects discussed in the course?",
+        "options": ["Stabilized climate systems", "Intensified global warming", "Irreversible changes after tipping points", "Increased solar radiation absorption by the Earth"],
+        "answer": "1"
+    },
+    {
+        "question": "What is not a likely outcome of increased urban green space?",
+        "options": ["Higher urban temperatures", "Improved air quality", "Reduced urban heat island effect", "Enhanced urban biodiversity"],
+        "answer": "1"
+    },
+    {
+        "question": "Which policy would least support sustainable agriculture?",
+        "options": ["Subsidies for organic farming", "Heavy reliance on chemical pesticides", "Promotion of crop rotation and polyculture", "Incentives for reducing water use in farming"],
+        "answer": "2"
+    },
+    {
+        "question": "How would a sudden increase in the production and use of biofuels affect global food security?",
+        "options": ["It would have no impact on food security", "It could increase global food prices by diverting crops from food to fuel", "It would significantly decrease food prices", "It would increase the global production of food crops"],
+        "answer": "2"
+    },
+    {
+        "question": "Which is not an effect of increased noise pollution in urban areas?",
+        "options": ["Decreased property values", "Increased biodiversity", "Heightened stress and anxiety among residents", "Potential hearing loss"],
+        "answer": "2"
+    },
+    {
+        "question": "What would not be an effect of a global decrease in meat consumption?",
+        "options": ["Increased grain availability for human consumption", "Decreased deforestation for pasture land", "Increased greenhouse gas emissions", "Reduced water usage in agriculture"],
+        "answer": "3"
+    },
+    {
+        "question": "Which is an incorrect statement about the role of technology in sustainable development?",
+        "options": ["Technology always reduces the environmental footprint of processes", "Technology can enhance energy efficiency", "Innovative technologies can improve waste recycling", "Technology can facilitate remote work, reducing transportation emissions"],
+        "answer": "1"
+    },
+    {
+        "question": "How does population growth in urban areas complicate efforts to achieve sustainability?",
+        "options": ["It reduces the strain on public transportation systems", "It increases demand for energy and resources", "It simplifies waste management systems", "It decreases the complexity of energy distribution"],
+        "answer": "2"
+    },
+    {
+        "question": "What is not a direct result of failing to address coral reef degradation?",
+        "options": ["Increased opportunities for coastal tourism", "Loss of habitats for marine species", "Increased vulnerability of coastal areas to storms", "Reduction in fish stocks that depend on reefs"],
+        "answer": "1"
+    },
+    {
+        "question": "If a country increases its investment in renewable energy sources like solar and wind, what is the most likely impact on its carbon footprint?",
+        "options": ["Increase dramatically", "Decrease significantly", "No impact", "Only temporary decrease"],
+        "answer": "2"
+    },
+    {
+        "question": "Considering global trends in extreme poverty, what policy would best support the eradication of poverty by 2030?",
+        "options": ["Cutting healthcare funding", "Reducing education access", "Implementing comprehensive social protection systems", "Focusing on military expenditures"],
+        "answer": "3"
+    },
+    {
+        "question": "How might urban centers effectively manage the challenge of high baseline water stress?",
+        "options": ["By reducing water treatment facilities", "Expanding urban sprawl", "Implementing water-saving technologies and policies", "Increasing water prices drastically"],
+        "answer": "3"
+    },
+    {
+        "question": "What role does education play in achieving gender equality in regions affected by poverty?",
+        "options": ["No significant role", "Decreases women's participation in the economy", "Empowers women and promotes economic participation", "Increases gender disparities"],
+        "answer": "3"
+    },
+    {
+        "question": "How does promoting the circular economy contribute to sustainable development?",
+        "options": ["By increasing waste production", "Minimizing resource use and waste generation", "Promoting the use of single-use plastics", "Decreasing economic activities"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the expected impact of enhanced public transportation systems on urban sustainability?",
+        "options": ["Increased traffic congestion", "Reduced carbon emissions and lower traffic volumes", "Higher urban pollution", "Decreased public mobility"],
+        "answer": "2"
+    },
+    {
+        "question": "Which strategy would most effectively reduce income inequality within a country?",
+        "options": ["Lowering taxes for the wealthiest", "Removing minimum wage laws", "Enhancing access to quality education and healthcare", "Reducing public spending on infrastructure"],
+        "answer": "3"
+    },
+    {
+        "question": "If a country shifts from coal to renewable energy, what immediate environmental benefit is expected?",
+        "options": ["Increased air quality", "More land use for mining", "Higher greenhouse gas emissions", "Reduced water usage"],
+        "answer": "1"
+    },
+    {
+        "question": "What would be a direct benefit of reducing global food waste?",
+        "options": ["Increased need for food imports", "Lower global food prices and reduced environmental impact", "Higher agricultural outputs", "Decreased nutritional value of food"],
+        "answer": "2"
+    },
+    {
+        "question": "How does strengthening global financial market regulations help achieve SDG 10?",
+        "options": ["By limiting economic growth", "Reducing economic inequality through enhanced stability", "Increasing private sector profits", "Promoting unrestricted market practices"],
+        "answer": "2"
+    },
+    {
+        "question": "In terms of food security, what is the effect of diversifying food sources in a country highly dependent on imports?",
+        "options": ["Increases dependence on single sources", "Makes the food supply more vulnerable to global shocks", "Enhances resilience to global supply chain disruptions", "Has no significant impact on food security"],
+        "answer": "3"
+    },
+    {
+        "question": "Which outcome is most likely if a nation focuses on both mitigation and adaptation in response to climate change?",
+        "options": ["Increased vulnerability to climate impacts", "Reduced capacity to handle climate disasters", "Improved resilience and reduced climate risks", "No change in climate impact"],
+        "answer": "3"
+    },
+    {
+        "question": "What effect would progressive wage policies likely have in a society with growing economic inequality?",
+        "options": ["Worsen the inequality", "Reduce the gap between the rich and poor", "Have no effect on economic conditions", "Increase unemployment rates"],
+        "answer": "2"
+    },
+    {
+        "question": "Considering environmental sustainability, what would be the impact of enforcing strict pollution control laws?",
+        "options": ["Increase in industrial pollution", "Decrease in biodiversity", "Improvement in ecosystem health and air quality", "Stagnation of technological innovation"],
+        "answer": "3"
+    },
+    {
+        "question": "What is likely to happen if a developing country improves its infrastructure for clean water and sanitation?",
+        "options": ["Decrease in public health", "Increase in water-borne diseases", "Enhancement of public health and well-being", "No significant change in health outcomes"],
+        "answer": "3"
+    },
+    {
+        "question": "Considering the implications of climate change on agriculture, which approach is best to manage its impact on food production?",
+        "options": ["Increasing the use of chemical fertilizers", "Enhancing genetically modified crops", "Implementing sustainable agricultural practices", "Focusing solely on increasing land for agriculture"],
+        "answer": "3"
+    },
+    {
+        "question": "Given the high reliance on imports, what strategy should Singapore prioritize to strengthen its food security?",
+        "options": ["Expanding fast food chains", "Increasing local food production", "Negotiating lower import tariffs", "Focusing only on food exports"],
+        "answer": "2"
+    },
+    {
+        "question": "If a country's Gini coefficient decreases, what is the likely impact on its society?",
+        "options": ["Increased income inequality", "Reduced income inequality", "Higher rates of unemployment", "Decreased economic growth"],
+        "answer": "2"
+    },
+    {
+        "question": "Which solution aligns with the goals of sustainable urban water management in face of global water stress?",
+        "options": ["Building more dams", "Increasing groundwater extraction", "Implementing water recycling and conservation techniques", "Relying on bottled water for urban supply"],
+        "answer": "3"
+    },
+    {
+        "question": "What would be an effective public health strategy for using ODA funds in a low-income country?",
+        "options": ["Building luxury hospitals", "Investing in widespread disease prevention programs", "Focusing only on cosmetic surgeries", "Decreasing overall healthcare spending"],
+        "answer": "2"
+    },
+    {
+        "question": "How should a nation address the challenge of energy poverty to meet SDG 7?",
+        "options": ["Reduce funding for renewable energy", "Invest heavily in coal plants", "Expand access to affordable, sustainable energy services", "Limit electricity usage to conserve energy"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the likely effect of effective soil conservation techniques on food security?",
+        "options": ["Decrease in food production due to higher costs", "Increase in food availability due to improved soil health", "No impact on food production", "Reduction in the nutritional value of food"],
+        "answer": "2"
+    },
+    {
+        "question": "Considering the impact of the agri-food sector on greenhouse gas emissions, what policy would best mitigate its environmental impact?",
+        "options": ["Subsidizing fossil fuel usage in agriculture", "Promoting the use of sustainable farming techniques", "Banning all agricultural activities", "Increasing the use of synthetic pesticides"],
+        "answer": "2"
+    },
+    {
+        "question": "Which measure would effectively enhance gender equality in regions impacted by extreme poverty?",
+        "options": ["Reducing educational opportunities for women", "Investing in women’s health and education", "Limiting women's participation in the workforce", "Decreasing funding for maternity health care"],
+        "answer": "2"
+    },
+    {
+        "question": "How can cities in the Global South address water scarcity?",
+        "options": ["By privatizing all water sources", "Ignoring water conservation laws", "Investing in infrastructure to improve water access and efficiency", "Increasing water imports from neighboring countries"],
+        "answer": "3"
+    },
+    {
+        "question": "What is a direct consequence of increasing the use of solar photovoltaics in an urban area?",
+        "options": ["Increased air pollution", "Reduced dependence on non-renewable energy sources", "Higher consumption of fossil fuels", "Decreased energy production"],
+        "answer": "2"
+    },
+    {
+        "question": "In the context of SDGs, what would be an expected outcome of enhancing global partnership for sustainable development?",
+        "options": ["Decreased international cooperation", "Increased trade barriers", "Improved resource sharing and problem-solving", "Higher global competition"],
+        "answer": "3"
+    },
+    {
+        "question": "What would be the most likely impact of implementing progressive taxation in a highly unequal society?",
+        "options": ["Worsening income inequality", "Reducing income disparity", "Decreasing public revenues", "Increasing private investment risks"],
+        "answer": "2"
+    },
+    {
+        "question": "Considering the sustainable management of water resources, what impact would modernizing aging water infrastructure have?",
+        "options": ["Increased water wastage", "Reduced water distribution efficiency", "Enhanced water conservation and availability", "No impact on water resource management"],
+        "answer": "3"
+    },
+    {
+        "question": "What could be a significant outcome of implementing energy-efficient technologies in developing countries?",
+        "options": ["Increase in greenhouse gas emissions", "Reduction in overall energy costs and environmental impact", "Decrease in technological adoption", "Over-reliance on outdated technologies"],
+        "answer": "2"
+    }
+]

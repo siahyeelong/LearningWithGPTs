@@ -1,0 +1,322 @@
+[
+    {
+        "question": "What stage of modern consumerism was characterized by the spread and use of manufactured goods due to industrialisation?",
+        "options": ["1500s–1800s", "1800s–1880s", "1880s–1930s", "1930s–1970s"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the key characteristic of the third stage of modern consumerism?",
+        "options": ["Luxury goods trading", "Spread of manufactured goods", "Economic strategy stimulating consumer goods production", "Exponential increase in consumption"],
+        "answer": "3"
+    },
+    {
+        "question": "During which period did the idea that a modern society requires a consumption-based economy emerge?",
+        "options": ["1500s–1800s", "1800s–1880s", "1880s–1930s", "1930s–1970s"],
+        "answer": "4"
+    },
+    {
+        "question": "Identify the fifth stage of consumerism, characterized by an exponential increase in consumption.",
+        "options": ["1500s–1800s", "1800s–1880s", "1930s–1970s", "1970s–Now"],
+        "answer": "4"
+    },
+    {
+        "question": "What does consumerism refer to when buying things that are not necessarily needed?",
+        "options": ["Consumption", "Overconsumption", "Consumerism", "Sustainable consumption"],
+        "answer": "3"
+    },
+    {
+        "question": "How has the consumption explosion been environmentally detrimental?",
+        "options": ["Caused a decrease in goods circulation", "Led to sustainable consumption", "Accompanied by environmental degradation", "Promoted recycling efforts"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the significance of UN Sustainability Goal 12?",
+        "options": ["Promote peaceful and inclusive societies", "Ensure sustainable consumption and production patterns", "Take urgent action to combat climate change", "End poverty in all its forms everywhere"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a cap in the context of carbon trading?",
+        "options": ["A market-based incentive", "A limit on allowable emissions of greenhouse gases", "A type of carbon tax", "A financial incentive"],
+        "answer": "2"
+    },
+    {
+        "question": "How does a carbon tax work in theory?",
+        "options": ["Incentive to increase emissions", "Direct price on carbon", "Subsidy for carbon emissions", "Cap on carbon production"],
+        "answer": "2"
+    },
+    {
+        "question": "What was the main suggestion from the Stern Review for developed countries?",
+        "options": ["Increase emissions by 50%", "Reduce 60–80% emissions by 2050", "Maintain current emission levels", "Double emissions for economic growth"],
+        "answer": "2"
+    },
+    {
+        "question": "How is air pollution defined according to UNEP?",
+        "options": ["Presence of only gases harmful to health", "Excessive sound causing environmental stress", "Presence of substances producing undesirable effects", "Light that obscures the natural features of the night sky"],
+        "answer": "3"
+    },
+    {
+        "question": "What event highlighted the severity of air pollution in London, 1952?",
+        "options": ["The Great Fire", "The Great Smog", "The London Fog", "The Blackout"],
+        "answer": "2"
+    },
+    {
+        "question": "Which pollution is referred to as 'white pollution'?",
+        "options": ["Air pollution", "Noise pollution", "Light pollution", "Plastic pollution"],
+        "answer": "4"
+    },
+    {
+        "question": "What is a significant effect of noise pollution in Singapore?",
+        "options": ["Decreased wildlife population", "Workplace noise-induced deafness", "Increased air pollution", "Reduced visibility"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a cap in a cap and trade system?",
+        "options": ["A limit on global temperature rise", "A limit on allowable emissions of greenhouse gases", "A financial penalty for excessive pollution", "A cap on the use of natural resources"],
+        "answer": "2"
+    },
+    {
+        "question": "What is one of the main benefits of imposing a carbon tax?",
+        "options": ["Encourages increased fossil fuel consumption", "Provides a direct price on carbon emissions", "Decreases investment in clean energy", "Reduces government revenue"],
+        "answer": "2"
+    },
+    {
+        "question": "What does the UN Sustainability Goal 14 aim to conserve?",
+        "options": ["Forests", "Freshwater resources", "Oceans, seas and marine resources", "Deserts"],
+        "answer": "3"
+    },
+    {
+        "question": "What triggers coral reef degradation?",
+        "options": ["Decreased ocean temperatures", "Increased biodiversity", "Warming waters causing coral bleaching", "Reduction in coastal development"],
+        "answer": "3"
+    },
+    {
+        "question": "What characterizes a positive feedback loop in global warming?",
+        "options": ["Decrease in global average temperature", "More ice formation leading to more reflection", "Ice melt leading to less reflection of solar radiation", "Increased albedo effect stabilizing temperatures"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the tipping point in the context of climate change?",
+        "options": ["A point of no pollution", "A stable state of the environment", "A threshold beyond which change is irreversible", "A goal for sustainable development"],
+        "answer": "3"
+    },
+    {
+        "question": "Which region's shift is impacting its role as a carbon sink?",
+        "options": ["Siberian Tundra", "Amazon Rainforest", "Great Barrier Reef", "Sahara Desert"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a major socio-economic challenge for sustainable development?",
+        "options": ["Technological advancement", "Convergence of development efforts", "Increased industrialization", "Decreased global temperatures"],
+        "answer": "2"
+    },
+    {
+        "question": "What does rapid population growth in specific regions indicate for sustainability?",
+        "options": ["Improved living standards", "Increased resource availability", "Concentration of sustainability challenges", "Decreased biodiversity loss"],
+        "answer": "3"
+    },
+    {
+        "question": "What role does fertility rate play in sustainable development?",
+        "options": ["Indicates economic growth", "Determines population growth", "Measures carbon footprint", "Reflects technological advancements"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a direct consequence of urbanization on the environment?",
+        "options": ["Reduced carbon emissions", "Increased green spaces", "Elevated demand for resources", "Lowered energy consumption"],
+        "answer": "3"
+    },
+    {
+        "question": "How does climate change primarily affect agriculture?",
+        "options": ["Stabilizes crop yields", "Increases land fertility", "Alters patterns of precipitation", "Reduces water usage"],
+        "answer": "3"
+    },
+    {
+        "question": "What is a challenge for countries heavily dependent on agriculture?",
+        "options": ["Adapting to technological changes", "Transitioning to urban societies", "Responding to climate change impacts", "Managing increased crop yields"],
+        "answer": "3"
+    },
+    {
+        "question": "What was the international poverty line set at in 2015?",
+        "options": ["$1.25/day", "$1.90/day", "$2.15/day", "$2.50/day"],
+        "answer": "2"
+    },
+    {
+        "question": "By 2030, what is the target for eradicating extreme poverty according to SDG1?",
+        "options": ["For all people globally", "In developing countries only", "In Sub-Saharan Africa", "In South Asia"],
+        "answer": "1"
+    },
+    {
+        "question": "What is the new global poverty line set in Fall 2022?",
+        "options": ["$1.90/day", "$2.00/day", "$2.15/day", "$2.50/day"],
+        "answer": "3"
+    },
+    {
+        "question": "Which region has the largest proportion of extreme poor, living on $1.90/day?",
+        "options": ["South Asia", "Sub-Saharan Africa", "Latin America", "Southeast Asia"],
+        "answer": "2"
+    },
+    {
+        "question": "What does ODA stand for in development assistance?",
+        "options": ["Operational Development Agency", "Official Development Assistance", "Organizational Development Application", "Overseas Development Agency"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the focus of SDG10?",
+        "options": ["Reduced Inequalities", "Climate Action", "Quality Education", "Clean Water and Sanitation"],
+        "answer": "1"
+    },
+    {
+        "question": "By what year does NTU aim to be carbon neutral?",
+        "options": ["2030", "2035", "2040", "2045"],
+        "answer": "2"
+    },
+    {
+        "question": "What percentage of food does Singapore import?",
+        "options": ["70%", "80%", "90%", "100%"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the target for local food production in Singapore by the year 2030, known as '30 by 30'?",
+        "options": ["Produce 30% of its nutritional needs", "Reduce food imports by 30%", "Increase food exports by 30%", "Cut food waste by 30%"],
+        "answer": "1"
+    },
+    {
+        "question": "What is the major driver of climate change from 1750 to 2011 according to IPCC?",
+        "options": ["Methane (CH4)", "Carbon Dioxide (CO2)", "Nitrous Oxide (N2O)", "Fluorinated Gases"],
+        "answer": "2"
+    },
+    {
+        "question": "Which renewable energy source directly heats water or air?",
+        "options": ["Solar thermal", "Biomass", "Hydrogen fuel", "Tidal energy"],
+        "answer": "1"
+    },
+    {
+        "question": "How many people globally are undernourished according to United Nations estimates?",
+        "options": ["About 690 million", "About 500 million", "About 800 million", "About 1 billion"],
+        "answer": "1"
+    },
+    {
+        "question": "What percentage of greenhouse gas emissions does the agriculture, forestry, and other land use sector contribute to globally?",
+        "options": ["10%", "14%", "21%", "24%"],
+        "answer": "4"
+    },
+    {
+        "question": "How much food is globally wasted according to FAO in 2020?",
+        "options": ["One quarter", "One third", "One half", "Two thirds"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the impact of agricultural land use on the environment?",
+        "options": ["Decreases biodiversity", "Increases greenhouse gas emissions", "Both A and B", "Neither A nor B"],
+        "answer": "3"
+    },
+    {
+        "question": "What is defined as the lack of access to sustainable modern energy services and products?",
+        "options": ["Energy deficiency", "Energy insufficiency", "Energy poverty", "Energy scarcity"],
+        "answer": "3"
+    },
+    {
+        "question": "How much more food is needed to feed the projected population in 2050?",
+        "options": ["20% more", "30% more", "40% more", "50% more"],
+        "answer": "4"
+    },
+    {
+        "question": "Which region was most affected by the pushback into extreme poverty due to the COVID-19 pandemic?",
+        "options": ["South America", "South Asia", "Sub-Saharan Africa", "Southeast Asia"],
+        "answer": "3"
+    },
+    {
+        "question": "What is the most effective use of Official Development Assistance (ODA) after 2000?",
+        "options": ["Infrastructure development", "Public health", "Education", "Agricultural development"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the definition of the new international absolute poverty line?",
+        "options": ["$1.90/day (2011 PPP)", "$2.15/day (2017 PPP)", "$2.50/day (2015 PPP)", "$1.25/day (2005 PPP)"],
+        "answer": "1"
+    },
+    {
+        "question": "Which sector employs half of the global workforce according to the provided slides?",
+        "options": ["The technology sector", "The agri-food industry", "The service sector", "The manufacturing sector"],
+        "answer": "2"
+    },
+    {
+        "question": "By what year is Singapore planning to produce 30% of its nutritional needs locally, known as the '30 by 30' target?",
+        "options": ["2025", "2030", "2040", "2050"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the main cause of biodiversity loss according to the slides?",
+        "options": ["Urban development", "Agricultural land use", "Industrial pollution", "Deforestation for logging"],
+        "answer": "2"
+    },
+    {
+        "question": "How many people globally do not have access to electricity, emphasizing energy poverty?",
+        "options": ["771 million", "500 million", "1.2 billion", "900 million"],
+        "answer": "1"
+    },
+    {
+        "question": "What is one of the key strategies for producing more food sustainably?",
+        "options": ["Increasing the use of pesticides", "Genetic modification of all crops", "More sustainable agricultural practices", "Expanding agricultural land"],
+        "answer": "3"
+    },
+    {
+        "question": "What percentage of food was globally wasted in 2020?",
+        "options": ["One third", "One fourth", "Half", "Two thirds"],
+        "answer": "1"
+    },
+    {
+        "question": "What are the components of food security as described in the slides?",
+        "options": ["Availability, Access, Utilisation, Stability", "Production, Distribution, Consumption, Recycling", "Supply, Demand, Nutritional Value, Preservation", "Agriculture, Market, Economy, Health"],
+        "answer": "1"
+    },
+    {
+        "question": "What exacerbates biodiversity loss in Malaysia?",
+        "options": ["Increased urbanization", "Severe deforestation and illegal poaching", "Reduced industrial activities", "Expansion of marine protected areas"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the projected impact on Nigeria’s population by 2100?",
+        "options": ["Decrease by half", "Remain the same", "Triple fold increase", "Slight increase"],
+        "answer": "3"
+    },
+    {
+        "question": "Which factor significantly determines the fertility rate?",
+        "options": ["Country's GDP", "Access to family planning services", "Technological advancement", "Global temperature variations"],
+        "answer": "2"
+    },
+    {
+        "question": "What is a significant effect of positive feedback loops in climate systems?",
+        "options": ["Decrease in global warming", "Stabilization of ecosystems", "Amplification of initial changes", "Reduction of greenhouse gas emissions"],
+        "answer": "3"
+    },
+    {
+        "question": "What characterizes a negative feedback loop in environmental terms?",
+        "options": ["Amplifies climate change effects", "Mitigates or dampens change", "Leads to biodiversity loss", "Causes unrestrained resource exploitation"],
+        "answer": "2"
+    },
+    {
+        "question": "What environmental issue does the conversion of rainforests into palm plantations exacerbate?",
+        "options": ["Air purification", "Water conservation", "Biodiversity loss", "Carbon sequestration"],
+        "answer": "3"
+    },
+    {
+        "question": "By 2100, which region is projected to have strong population growth?",
+        "options": ["Europe", "Latin America", "Africa", "North America"],
+        "answer": "3"
+    },
+    {
+        "question": "What is a major consequence of coral reef death?",
+        "options": ["Increased coastal wave exposure", "Increased coral diversity", "Decreased ocean temperatures", "Stabilized marine ecosystems"],
+        "answer": "1"
+    },
+    {
+        "question": "What does urbanization contribute to in terms of sustainability challenges?",
+        "options": ["Increased energy efficiency", "Reduced waste production", "Elevated demand for natural resources", "Decreased carbon footprint"],
+        "answer": "3"
+    },
+    {
+        "question": "What sustainability challenge is exacerbated by poverty?",
+        "options": ["Increased access to clean energy", "Enhanced biodiversity conservation", "Limited ability to implement family planning", "Improved waste management practices"],
+        "answer": "3"
+    }
+]

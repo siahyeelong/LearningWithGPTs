@@ -1,0 +1,600 @@
+[
+    {
+        "question": "The first time that countries worldwide signed a deal to work together to limit global warming, and made financial commitments to do so, was in 2015. What was the deal called?",
+        "options": [
+            "The IPCC report",
+            "The Singapore Green Plan",
+            "The Paris Agreement",
+            "The COP26 Summit Agreement"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Singapore aims to transition towards a more circular economy. Which of the following is NOT a characteristic of a circular economy?",
+        "options": [
+            "Designing products to minimise waste and pollution.",
+            "Regeneration: instead of becoming waste in the end, products are a part of a circular regenerating system that never ends.",
+            "Keeping products in circulation through reuse, repair, or remanufacturing.",
+            "Compensating for all emissions and pollution through, for example, tree planting or cleaning up plastic waste from beaches."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Sustainable development spans many different areas and academic disciplines, as such, it can be described as a complex problem. Which option is NOT a characteristic of complex problems?",
+        "options": [
+            "Solutions are not clear cut.",
+            "Solutions may be simple but hard to finance.",
+            "When solutions are implemented, they tend to ramify throughout the system.",
+            "Solutions can take a long time to evaluate."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What kind of human activity adds the most CO2 to the atmosphere?",
+        "options": [
+            "The building industry",
+            "Meat production",
+            "Combustion of fossil fuels",
+            "Deforestation (for example, to produce palm oil)"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Many of the SDG and actions in the Singapore Green Plan span across all of the social, economic and environmental perspectives. In what way is planting a million trees in Singapore a natural climate solution?",
+        "options": [
+            "By planting local tree species, we help to preserve them.",
+            "Trees are nice to look at.",
+            "Tree planting stimulates community spirit by engaging people in a common activity for a better-shared living space.",
+            "Trees help cool down the island naturally through shading and releasing water through transpiration."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "No poverty, zero hunger, and reduced inequalities are some of the important sustainable development goals:",
+        "options": [
+            "Yes",
+            "Not all of them are important",
+            "No"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which of these regions are some of the most poverty-stricken regions of the world:",
+        "options": [
+            "Asia and Europe",
+            "Sub-Saharan Africa and the Middle East",
+            "Sub-Saharan Africa and South Asia"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "A socially inclusive society aims to eliminate discrimination, enable high social mobility, and ensure that every human being can meet basic needs.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Technology and the digital revolution are widening the income gap.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Gender pay gap is the only aspect of gender inequality?",
+        "options": [
+            "No",
+            "Yes"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "From 2019 - 2020 the number of undernourished people in the world ________ .",
+        "options": [
+            "Increased",
+            "Changed only very little",
+            "Remained the same",
+            "Decreased"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Half of the world’s habitable land is used for agriculture. How much of that is used to grow crops for human consumption and for livestock (for meat, dairy, grazing and crop feed) respectively?",
+        "options": [
+            "19% of habitable land is used for livestock and 10% to grow crops for human consumption.",
+            "27% of habitable land is used for livestock and 7% to grow crops for human consumption.",
+            "10% of habitable land is used for livestock and 19% to grow crops for human consumption.",
+            "7% of habitable land is used for livestock and 27% to grow crops for human consumption."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "According to the FAO, how much of produced food did not reach the market or was discarded after purchase in 2020?",
+        "options": [
+            "10% of the food produced",
+            "60% of the food produced",
+            "Half the food produced",
+            "A third of the food produced"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "In 2020 the World Food Programme (WFP) was awarded the Nobel Peace Prize. The motivation was:",
+        "options": [
+            "\"For working towards ensuring physical and economic access to sufficient, safe and nutritious food … \"",
+            "\"For an initiative to support multidisciplinary teams to create innovations to help transform the food system.\"",
+            "\"For its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas…\"",
+            "\"For leveraging technology to enable investors to crowd-fund small-holder farmers \"."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "In a successful project in Singapore, the larvae of Black Soldier Flies are used to:",
+        "options": [
+            "Convert food waste into nutritious compost.",
+            "Motivate people to produce more food waste.",
+            "Provide a sustainable protein source for traditional local dishes.",
+            "Add more species diversity in local gardens."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "How many people worldwide face high levels of baseline water stress?",
+        "options": [
+            "Every third",
+            "One-quarter",
+            "Every tenth",
+            "One in five"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which is the factor that makes water demand difficult to predict?",
+        "options": [
+            "Socio-economic development",
+            "Population",
+            "Urbanisation",
+            "Climate change"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which economic sector consumes the most water worldwide?",
+        "options": [
+            "Tourism industry",
+            "Textile industry",
+            "Agriculture",
+            "E-Commerce"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the 4 national taps in Singapore will possibly obsolete in the future?",
+        "options": [
+            "Desalinated water from the Singapore Strait",
+            "NEWater from wastewater reclamation plant",
+            "Imported water from Johor",
+            "Water from local catchment"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which one is NOT an advantage of building a Deep Tunnel Sewage System (DTSS)?",
+        "options": [
+            "Channelling and disposing of used water directly into the sea",
+            "Shrinking the land occupied by used water infrastructure",
+            "Collecting sewage for reclamation",
+            "Freeing up precious land for higher value uses"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "People from the high-income countries are:",
+        "options": [
+            "Looking for further improvement in well-being.",
+            "Not paying enough attention to well-being anymore.",
+            "Not looking for further improvement in well-being.",
+            "Not looking for further improvement in well-being and Not paying enough attention to well-being anymore."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Once emission mitigation measures are implemented, adaptation plans will need to be scrapped.",
+        "options": [
+            "True",
+            "False",
+            "No knowledge is available on this."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "CO2 is the only greenhouse gas?",
+        "options": [
+            "Yes",
+            "No",
+            "No knowledge is available on this."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is ‘energy poverty’?",
+        "options": [
+            "Lack of access to sanitation and sustainable modern energy services and products.",
+            "Lack of access to sustainable modern energy services and products.",
+            "Poverty and lack of access to employment and clean energy services."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Advanced technologies, behavior change, clean energy, and fuel shift are important for emission mitigation",
+        "options": [
+            "Difficult to say",
+            "Yes",
+            "No",
+            "Not all of them"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following are economic incentive-based policy instruments?",
+        "options": [
+            "Market-based tools such as cap and trade, and other non-market mechanisms such as the carbon tax.",
+            "None of all them",
+            "Institution-based approaches.",
+            "Command and control."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following statement is true?",
+        "options": [
+            "Cap and Trade ensure that polluter pays and allow for mitigating emissions at the lowest scale possible.",
+            "Cap and Trade ensure that polluter pays and allows for mitigating emissions at the lowest cost possible.",
+            "The carbon tax put an indirect price on carbon and makes clean energy investments more lucrative."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "The stern review suggested:",
+        "options": [
+            "Countries must trade-off growth for climate change actions.",
+            "Countries must trade-off climate change actions for growth.",
+            "Taking climate change actions is a pro-growth strategy."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Public awareness and behavior change are crucial to tackling climate change.",
+        "options": [
+            "Difficult to say",
+            "Yes",
+            "No"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "The lecture discusses the Paris Agreement. What is it?",
+        "options": [
+            "None of the above.",
+            "A global treaty to limit global warming and reduce greenhouse gas emissions.",
+            "A regional treaty to limit global warming and reduce greenhouse gas emissions."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "What is the least serious effect of air pollution on children’s health?",
+        "options": [
+            "Cardiovascular disease",
+            "Chest tightness",
+            "Cancer and poor neurodevelopment",
+            "Aggravation of respiratory disease"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Fishes are especially vulnerable to tiny bits of plastics floating in the ocean, called microplastics, because:",
+        "options": [
+            "They breathe water through their gills",
+            "Microplastics accumulate in predatory fish, asthey cannot be broken down and metabolized by the fish.",
+            "The microplastic bits look like food for fish that feed on marine microbes.",
+            "All the statements are the reasons why fishes are vulnerable to microplastics"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Why are dolphins and whales extra sensitive to noise pollution?",
+        "options": [
+            "They rely on sound for communication.",
+            "Industrial noise from oil and gas exploration resembles their mating calls.",
+            "The changing acoustic environment of the ocean is general stress on their health.",
+            "They are drawn to shipping traffic to play."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Terrestrial animals face many problems caused by noise pollution. Which of the following is NOT one of them?",
+        "options": [
+            "Sense of balance",
+            "Miscommunication",
+            "Foraging for food",
+            "Increased exposure to predators"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Light pollution causes a disruption in our diurnal rhythm. Which of the following best describes the diurnal rhythm?",
+        "options": [
+            "Our fear of seeing bright sunlight",
+            "Our optical systems response to visual information",
+            "Our eye period of relaxing",
+            "Our body’s 24-hour biological cycle"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which of the following is an area which dominates consumerism?",
+        "options": [
+            "Human rights of the workers",
+            "Social inequality",
+            "Retailer satisfaction",
+            "Environmental degradation"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the sequence about the production and consumption chain is correct?",
+        "options": [
+            "Production, extraction, distribution, disposal and consumption",
+            "Extraction, production, distribution, consumption and disposal",
+            "Extraction, consumption, distribution, production, and disposal",
+            "Extraction, distribution, production, consumption and disposal"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following statement is not related to material footprints?",
+        "options": [
+            "It is the key indication of the pressure placed on the environment to support economic growth and satisfy people’s material needs.",
+            "It is sum of the biomass, fossil fuels, metal ores and non-metal ores extracted.",
+            "It refers to the total amount of raw materials extracted to meet final consumption demands.",
+            "It measures human demand on nature, in other words, the quantity of nature it takes to support people or the economy."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the aim of the Singapore Zero Waste Masterplan?",
+        "options": [
+            "Decoupling economic growth from environmental degradation, increasing resource efficiency and promoting sustainable lifestyles.",
+            "Adopting a circular economy approach to waste & resource management practices & shifting towards more sustainable production & consumption.",
+            "Minimizing the natural resources & toxic materials used, waste & pollutants generated throughout the entire production & consumption process.",
+            "Reducing waste to a minimum by reusing, repairing, refurbishing and recycling existing materials and products."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Why are consumption patterns in most industrialized and developed countries considered unsustainable?",
+        "options": [
+            "Their products and service reply on too many natural resources and create harmful emissions when consumed or discarded.",
+            "The majority of people see the environment as something to be exploited.",
+            "They may need to exploit the natural resource from developing countries to meet their own basic living needs.",
+            "People simply are not aware of the environmental cost of the products they buy and the service they use."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "In what way is the environmental impact of cities disproportionate?",
+        "options": [
+            "Cities apply sustainable solutions to high degree, which makes their relative environmental impact low.",
+            "Because the total land area devoted to urban development is growing fast, so is the environmental impact of cities.",
+            "Cities occupy only about 1% of land globally but have a large impact on the environment.",
+            "Because the spatial extent of cities globally is so large, cities have a disproportionately large impact on the environment."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Which of the following is NOT one of the main ways that cities impact the environment?",
+        "options": [
+            "Conversion of forest and agricultural land to urban land.",
+            "High density of cars and industries in and around cities generates air pollution.",
+            "A lifestyle of high consumption leads pollution of land, rivers, and oceans.",
+            "Large amounts of highly concentrated wastewater are generated in cities.",
+            "The high use of agricultural pesticides and water for irrigation in urban farming"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Which one is NOT true?",
+        "options": [
+            "Cities play a critical role in advancing the sustainability agenda because:",
+            "Cities contribute large amounts of waste and pollution due to a high consumption lifestyle.",
+            "Cities contribute disproportionally to greenhouse gas emissions because of high energy use.",
+            "Cities urgently need to reduce their dependence on the environment",
+            "The number of large cities and the population they hold are increasing."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "How does the “Urban Heat Island Effect” work?",
+        "options": [
+            "A dense the urban environment, with less trees and more concrete, absorbs and retains less heat than the surrounding sea or forest.",
+            "A dense the urban environment, with less trees and more concrete, absorbs and retains more CO2, leading to a local warming effect.",
+            "A dense the urban environment, with less trees and more concrete, absorbs and retains more heat, causing a warming effect on the surrounding sea/forest.",
+            "A dense the urban environment, with less trees and more concrete, absorbs and retainsmore heat than the surrounding sea or forest.",
+            "A dense the urban environment, with less trees and more concrete, absorbs and retains more heat energy which is then in turn used to generate energy."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "What is meant by a ‘resilient city’ in the context of urban sustainability?",
+        "options": [
+            "The city has low hazard levels for natural hazards such as tsunamis, cyclones, earthquakes and sea level rise.",
+            "The city has implemented all the solutions for sustainable cities listed by the WWF.",
+            "The city and its urban dwellers should be able to continue to thrive even in the face of a disaster.",
+            "The city has employed natural climate solutions to reduce vulnerability to climate change."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Research suggests that the Amazon rainforest has passed a so called “tipping point”. What does that imply in the case of the Amazon?",
+        "options": [
+            "A new wetter climate",
+            "No significant change",
+            "Large areas of clear cuts",
+            "A new drier climate"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "In what way do the polar ice caps regulate the earth’s temperature?",
+        "options": [
+            "Warming it by absorbing sunlight.",
+            "Warming it by reflecting sunlight.",
+            "Cooling it by reflecting sunlight.",
+            "Cooling it by absorbing sunlight."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What does it mean when a country is under replacement fertility rate (in the context of population growth)?",
+        "options": [
+            "More boys than girls born",
+            "More girls than boys born",
+            "Net decline in population numbers",
+            "Net increase in population number"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "What do the United Nations population growth projections for the remainder of the century predict for different regions around the world?",
+        "options": [
+            "Strong population growth in Africa and Asia. Stagnation in Europe and Latin America. Slight population growth in North America and Oceania.",
+            "Strong population growth in Africa and Asia. The decline in Europe and Latin America. Stagnation in North America and Oceania.",
+            "Strong population growth in Africa and Asia. Stagnation in Europe and Latin America. The decline in North America and Oceania.",
+            "Strong population growth in Africa and Asia. The decline in Europe and Oceania. Stagnation in North and Latin America."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "According to a recently released United Nations report, a worrying trend is that some of the least developed countries in the world are on the path of divergent economic development.",
+        "options": [
+            "These countries are diverging from their poor past and taking a new direction towards becoming more developed.",
+            "Instead of converging/closing that income gap with rich countries, they bypass some rich countries thanks to remarkable economic development.",
+            "Instead of converging or closing that income gap with rich countries, they are falling further behind.",
+            "These countries are finding ways of breaking free of the vicious circles of poverty without international support."
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Sustainability involves and engages the responsibilities of the following agencies, except",
+        "options": [
+            "groups and communities",
+            "individuals",
+            "institutions and organizations",
+            "regions, states, and countries",
+            "the environment"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "“Broad-based prosperity, eliminating discrimination, equal protection under the laws, ensuring that every human being can meet basic needs, and enabling high social mobility”. The statement outlines the notion of:",
+        "options": [
+            "Income Equality",
+            "Sustainability",
+            "Human right",
+            "Economic Growth",
+            "Social inclusion"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "How will climate change affect future food security",
+        "options": [
+            "The impact will be positive because drier weather will mean less habitat for malaria mosquitoes, so fewer farmers will be sick at harvest time.",
+            "It will have negative impacts in most countries because of the increased frequency of droughts, storms, and floods.",
+            "There is no scientific consensus as to whether climate change is occurring or whether it will over the next 50 years.",
+            "It will have negative impacts in most developing countries because of the increased frequency of droughts, storms, and floods.",
+            "The impact will be positive because there will more carbon dioxide available for plant photosynthesis."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Around the world, 17 countries will face extremely high levels of water stress in the future, according to the World Resources Institute. Which is NOT a factor increasing water demand and usage?",
+        "options": [
+            "Global warming",
+            "Sustainable development",
+            "Socio-economic development",
+            "Urbanisation",
+            "Population growth"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Choose the INCORRECT statement.",
+        "options": [
+            "Although they are reasonably predictable, all renewable energy sources are intermittent",
+            "Complaints have been raised that the sights and sounds of the spinning blades of the wind turbines could cause headaches, nausea, and other health problems.",
+            "The initial cost of renewable energy systems is always higher in comparison to conventional systems.",
+            "Renewable energy investments are delivering massively better returns than fossil fuels",
+            "Renewable energy sources can take up to 1000 times more space than fossil fuels."
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which one of the following is LEAST directly reflective of climate change due to global warming?",
+        "options": [
+            "Human health",
+            "Food production",
+            "Water supply",
+            "Arctic melting",
+            "Extreme weather"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "In Singapore, we have a significant problem affecting recyclable items at the sorting facilities. What was that problem?",
+        "options": [
+            "The waste collectors dump the rubbish and recyclables in the same truck.",
+            "Items contaminated with food waste can contaminate other items.",
+            "The public lacks awareness of how materials are recycled in Singapore.",
+            "It is nearly impossible to tell one type of plastic from other types.",
+            "Most people in Singapore do not sort the different recyclable materials."
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following fabrics release microplastic particles during washings?",
+        "options": [
+            "Bamboo",
+            "Linen",
+            "Cotton",
+            "Polyester",
+            "Silk"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "In a circular economy, what is the role of recycling waste?",
+        "options": [
+            "The cost of commodities would include the cost of recycling.",
+            "New technology and AI should be applied to streamline the recycling process.",
+            "Incineration is preferred to recycling because it can generate energy.",
+            "Recycling should be avoided, and we should prevent waste from occurring in the first place.",
+            "Landfills should be used only for products that cannot be recycled."
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "According to the lecture, “green” infrastructure can reduce the urban heat island effect. Why is that?",
+        "options": [
+            "Smart urban systems are designed to store heat during the day and release it at night.",
+            "Environmentally friendly buildings dump less heat energy from their air-con systems.",
+            "Roads made from recycled materials, such as used tyres, are cooler to the touch.",
+            "Forested areas can connect different areas of a city and provide spaces for bike paths.",
+            "Trees and plants provide shade for streets and other surfaces where the sun would warm."
+        ],
+        "answer": "5"
+    }
+]
